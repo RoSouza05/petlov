@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:cycloud": "npx cypress run --record --key 4f10903c-014a-4f48-80e3-055327666128"
   },
   "keywords": [],
   "author": "",
